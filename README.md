@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anizio Pereira
+- 👋 Hi, I’m Anizio Campos Pereira
 - 👀 I’m interested in data science, machine learning, deep learning, web scraping
 - 📫 How to reach me 
 
